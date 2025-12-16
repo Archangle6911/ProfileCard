@@ -82,7 +82,7 @@ body{
 .ribbon {
     position: fixed;
     right: -64px;
-    top: 45%;
+    top: 10%;
     transform: rotate(-90deg);
     border: 0;
     padding: 10px 18px;
